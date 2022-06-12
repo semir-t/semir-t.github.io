@@ -1,0 +1,275 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Semir Tursunovic
+Semir Tursunovic
+Embedded Engineer
+
+Show Contacts
+
+Email
+
+
+Phone
+
+
+Birthday
+1995
+
+Location
+Srebrenik, BiH
+
+# navbar
+
+About
+Resume
+Portfolio
+Photohraphy
+Blog
+Contact
+
+# about
+
+About me
+
+I am versatile, creative, hardworking and a quick learner with a solid foundation in Embedded Systems and Computer Architecture. I hold Bachelor's degree in Electrical engineering from the University of Tuzla and for the last 2 years I am working full time as an Embedded system designer at IRQdesign d.o.o. 
+
+My field of interest include: 
+ - Bare-metal firmware development
+ - High-level firmware development
+ - PCB design
+ - System control theory
+ - Image processing
+ - Network and communication protocols
+ - Data structures
+ 
+I have experience designing and developing firmware from low level drivers to system application on different MCUs (STM,Atmel,Microchip,TI etc.). Experience with all common MCU peripherals such as
+UART, SPI, I2C, DMA, ADC,DAC, RTC, Timers, USB, CAN, etc.
+
+In last couple of years I have worked with various MCUs and some of them have following characteristics:
+ - Based on the ARM Cortex M0,M1,M3,M4,M7 processor
+ - 8 bit and 32 bit MCUs
+ - Dual core MCU (STM32H7x7, STM32H7x5) 
+
+As new ICs are coming to the market there is always a need to write custom drivers, and in the last couple of years I gain experience in writing drivers and libraries for
+ - different kind of sensors (temperature,accelerometers, pressure etc.)
+ - motor drivers (stepper motors, BLDC, DC, Servo)
+ - displays (LCD and TFT)
+ - MMC/SD cards
+ - GSM Modules
+
+When designing a product, firmware is just one side of the story. For full device we need a dedicated hardware, and my experience in this are is:
+ - PCB design using Eagle CAD and KiCAD
+ - Soldering board with components that have following packages: LQFP, QFN, BGA,SOT, 0402 etc.
+ - Hardware functionality testing
+ - In-House EMC testing for the custom hardware
+
+When it comes to my filed of interest, I am always looking to learn and improve but also I like to share my knowledge. Because of that I am working part-time as a teaching assistant on Faculty of Electrical Engineering in Tuzla.
+
+My hobbies are running and photography.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University of Tuzla
+20019 — 
+Master's degree, Electrical and Electronics Engineering
+
+University of Tuzla
+20014 — 2018
+Bachelor's degree, Electrical and Electronics Engineering
+
+
+My skills
+
+C (Programming Language
+90%
+C++
+85%
+STM32
+90%
+Microcontrollers (in general)
+80%
+Real-Time Operating Systems (RTOS)
+60%
+PCB design
+80%
+Eagle CAD
+90%
+KiCAD
+60%
+Linux
+70%
+EMC Compliance
+60%
+Python
+60%
+Git
+80%
+Soldering
+95%
+
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
