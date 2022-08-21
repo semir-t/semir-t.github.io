@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>vCard - Personal Portfolio</title>
+  <title>Semir Tursunovic Portfolio</title>
 
   <!--
     - favicon
@@ -130,19 +130,19 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='index.html';">About</button>
+            <button class="navbar-link  active" data-nav-link>About</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='resume.html';">Resume</button>
+            <button class="navbar-link" onclick="window.location.href='resume.html';"> Resume</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='portfolio.html';">Portfolio</button>
+            <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link  active" onclick="window.location.href='blog.html';">Blog</button>
+            <button class="navbar-link" data-nav-link>Blog</button>
           </li>
 
           <li class="navbar-item">
@@ -150,7 +150,7 @@
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='contact.html';">Contact</button>
+            <button class="navbar-link" data-nav-link>Contact</button>
           </li>
 
         </ul>
@@ -161,13 +161,69 @@
 
 
 
-     <!--
-        - #BLOG
+      <!--
+        - #ABOUT
       -->
 
-    </div>
+      <article class="about  active" data-page="about">
 
-  </main>
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+            <p>
+            <p>
+                I have experience developing firmware from low level drivers to system application on MCUs and SOCs from varius manufacturers:
+				<ul>
+					<li>STMicroelectronics</li>
+					<li>Microchip</li>
+					<li>Atmel</li>
+					<li>Nordic</li>
+					<li>NXP</li>
+					<li>Espressif</li>
+					<li>GigaDevice</li>
+				</ul>
+                
+                
+         
+            </p>
+            <p>In last couple of years I have worked with various MCUs and some of them have following characteristics: </p>
+            <ul>
+                <li>Based on the ARM Cortex M0,M1,M3,M4,M7 processor</li>
+                <li>8 ,16 and 32 bit MCUs </li>
+                <li>Dual core MCU (STM32H7x7, STM32H7x5)</li>
+            </ul>
+            <p>
+				I have in depth knowledge of most common MCU peripherals such as UART, SPI, I2C, CAN, DMA, ADC,DAC, RTC, Timers, USB, CAN, LTDC, FMC, etc.
+            </p>
+
+            <p> 
+                As new ICs are coming to the market there is always a need to write custom drivers, and in the last couple of years I gain experience in writing drivers and libraries for
+            </p>
+            <ul>
+                <li>Varius sensors (temperature,accelerometers, pressure etc.)</li>
+                <li>Motor drivers (stepper motors, BLDC, DC, Servo) </li>
+                <li>LCD,TFT and OLED displays with dedicated Capacitive or Resistive touch interface</li>
+                <li> MMC/SD card driver</li>
+                <li> GSM modules</li>
+                <li> GPRS modules</li>
+                <li> WiFi modules</li>
+                <li> BLE modules</li>
+            </ul>
+
+			<p>
+				Depending on the requirements, I can also implemented:
+				<ul>
+					<li>Secure Bootloader</li>
+					<li>OTA firmware upgrade</li>
+					<li>Self-testing algorithm</li>
+					<li>GUI interface</li>
+				</ul>
+			</p>
+			
+			<a href=index.html> Back to Home Page</a>
+        </section>
 
 
 

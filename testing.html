@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>vCard - Personal Portfolio</title>
+  <title>Semir Tursunovic Portfolio</title>
 
   <!--
     - favicon
@@ -130,19 +130,19 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='index.html';">About</button>
+            <button class="navbar-link  active" data-nav-link>About</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='resume.html';">Resume</button>
+            <button class="navbar-link" onclick="window.location.href='resume.html';"> Resume</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='portfolio.html';">Portfolio</button>
+            <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link  active" onclick="window.location.href='blog.html';">Blog</button>
+            <button class="navbar-link" data-nav-link>Blog</button>
           </li>
 
           <li class="navbar-item">
@@ -150,7 +150,7 @@
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='contact.html';">Contact</button>
+            <button class="navbar-link" data-nav-link>Contact</button>
           </li>
 
         </ul>
@@ -161,13 +161,31 @@
 
 
 
-     <!--
-        - #BLOG
+      <!--
+        - #ABOUT
       -->
 
-    </div>
+      <article class="about  active" data-page="about">
 
-  </main>
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+			<p>
+				After PCB layout is completed, few samples of the PCB have to be manufacturer so that the designed can be confirmed. This is done by creating custom test which 
+				depend on the components used on the board. If there is a MCU present, then this would mena that simple low level drivers need to be written so that the communication
+				interface between MCU and all the other components can be confirmed.
+			</p>
+			<p>
+				After PCB layout is confirmed and firmware is realesed first batch of final product can be manufactured. But, for all the device to work as intended, small testing board, called
+				Test Jig Board has to be design which will assure that all of the components of system are working as inteded.
+			</p>
+			<p>
+				With my experties I can help you develop test procedures for both problems described above.
+			</p>
+			<a href="index.html"> Back to Home Page</a>
+        </section>
 
 
 

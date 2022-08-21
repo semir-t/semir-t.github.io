@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>vCard - Personal Portfolio</title>
+  <title>Semir Tursunovic Portfolio</title>
 
   <!--
     - favicon
@@ -130,19 +130,19 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='index.html';">About</button>
+            <button class="navbar-link  active" data-nav-link>About</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='resume.html';">Resume</button>
+            <button class="navbar-link" onclick="window.location.href='resume.html';"> Resume</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='portfolio.html';">Portfolio</button>
+            <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link  active" onclick="window.location.href='blog.html';">Blog</button>
+            <button class="navbar-link" data-nav-link>Blog</button>
           </li>
 
           <li class="navbar-item">
@@ -150,7 +150,7 @@
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" onclick="window.location.href='contact.html';">Contact</button>
+            <button class="navbar-link" data-nav-link>Contact</button>
           </li>
 
         </ul>
@@ -161,13 +161,32 @@
 
 
 
-     <!--
-        - #BLOG
+      <!--
+        - #ABOUT
       -->
 
-    </div>
+      <article class="about  active" data-page="about">
 
-  </main>
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+             <p>
+                When designing a product, firmware is just one side of the story. For full device we need a dedicated hardware, and my experience in this are is:
+            </p>
+            <ul>
+                <li>PCB design using Eagle CAD and KiCAD</li>
+                <li>Designing board to complie with EMC requirements</li>
+                <li>In-House EMC testing for the custom hardware </li>
+                <li>Soldering board with components that have following packages: LQFP, QFN, BGA,SOT, 0402 etc.</li>      
+            </ul>
+            <p>
+             After designing the PCB boards, I am capable of assembling few sample boards so that hte over all functionality can be tested. Addiotionally, this boards 
+             are used for firmware development. 
+            </p>
+			<a href="index.html"> Back to Home Page</a>
+        </section>
 
 
 
